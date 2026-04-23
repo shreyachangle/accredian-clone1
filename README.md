@@ -51,28 +51,35 @@ npm install
 
 3.Run project
 npm run dev
+
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](/screenshots/home1.png)  
-![Home](/screenshots/home2.png)  
-![Home](/screenshots/home3.png)  
+![Home](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/home1.png)  
+![Home](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/home2.png)  
+![Home](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/home3.png)  
 
 ---
 
 ### 📞 Contact Page  
-![Contact](/screenshots/contact.png)  
+![Contact](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/contact.png)  
 
 ---
 
 ### 🏢 Enterprise Pages  
-![Enterprise](/screenshots/enterprise1.png)  
-![Enterprise](/screenshots/enterprise2.png)  
+![Enterprise](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/enterprise1.png)  
+![Enterprise](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/enterprise2.png)  
 
 ---
 
 ### 📚 Programs Page  
-![Programs](/screenshots/program.png)  
+![Programs](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/program.png)  
+
+---
+
+### 🔐 Login Page  
+![Login](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/login.png)
+![Login](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/login.png)
 
 ---
 
