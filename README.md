@@ -55,30 +55,30 @@ npm run dev
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/home1.png)  
-![Home](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/home2.png)  
-![Home](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/home3.png)  
+![Home](./screenshots/home1.png)  
+![Home](./screenshots/home2.png)  
+![Home](./screenshots/home3.png)  
 
 ---
 
 ### 📞 Contact Page  
-![Contact](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/contact.png)  
+![Contact](./screenshots/contact.png)  
 
 ---
 
 ### 🏢 Enterprise Pages  
-![Enterprise](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/enterprise1.png)  
-![Enterprise](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/enterprise2.png)  
+![Enterprise](./screenshots/enterprise1.png)  
+![Enterprise](./screenshots/enterprise2.png)  
 
 ---
 
 ### 📚 Programs Page  
-![Programs](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/program.png)  
+![Programs](./screenshots/program.png)  
 
 ---
 
 ### 🔐 Login Page  
-![Login](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/login.png)
+![Login](./screenshots/login.png)
 ![Login](https://raw.githubusercontent.com/shreyachangle/accredian-clone1/main/screenshots/login.png)
 
 ---
