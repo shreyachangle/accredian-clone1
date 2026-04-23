@@ -51,31 +51,30 @@ npm install
 
 3.Run project
 npm run dev
-
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](./screenshots/home1.png)  
-![Home](./screenshots/home2.png)  
-![Home](./screenshots/home3.png)  
+![Home](/screenshots/home1.png)  
+![Home](/screenshots/home2.png)  
+![Home](/screenshots/home3.png)  
 
 ---
 
 ### 📞 Contact Page  
-![Contact](./screenshots/contact.png)  
+![Contact](/screenshots/contact.png)  
 
 ---
 
 ### 🏢 Enterprise Pages  
-![Enterprise](./screenshots/enterprise1.png)  
-![Enterprise](./screenshots/enterprise2.png)  
+![Enterprise](/screenshots/enterprise1.png)  
+![Enterprise](/screenshots/enterprise2.png)  
 
 ---
 
 ### 📚 Programs Page  
-![Programs](./screenshots/program.png)  
+![Programs](/screenshots/program.png)  
 
 ---
 
 ### 🔐 Login Page  
-![Login](./screenshots/login.png)  
+![Login](/screenshots/login.png)
